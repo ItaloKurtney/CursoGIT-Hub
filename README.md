@@ -1,2 +1,2 @@
 # CursoGIT-Hub
- Repositorio Curso Git e Github
+ Repositório Curso Git e Github,criado durante uma aula do curso em video.
